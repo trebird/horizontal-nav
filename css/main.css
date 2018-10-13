@@ -28,7 +28,7 @@ h1 {
 }
 
 nav ul {
-  padding: 0;
+  padding: 25px;
   margin-top: 0;
   margin-bottom: .3em;
 }
@@ -47,7 +47,7 @@ nav a {
   list-style-type: none;
   text-decoration: none;
   text-align: center;
-  margin: .3em;
+  margin-top: .3em;
 }
 
 nav a:not(.venus) {
