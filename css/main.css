@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   text-align: center;
   background-color: #dbd6cf;
-  border-width: 650px;
 }
 
 *, *::before, *::after {
