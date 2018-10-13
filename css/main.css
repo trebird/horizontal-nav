@@ -44,7 +44,7 @@ nav a {
   list-style-type: none;
   text-decoration: none;
   text-align: center;
-  margin: .3em;
+  margin-bottom: .3em;
 }
 
 nav a:hover {
