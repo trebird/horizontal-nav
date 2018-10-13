@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   text-align: center;
   background-color: #dbd6cf;
-  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -46,10 +45,6 @@ nav a {
   list-style-type: none;
   text-decoration: none;
   text-align: center;
-}
-
-a:not(.venus) {
-  max-width: 400px;
 }
 
 nav a:hover {
