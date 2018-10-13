@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  line-height: 1.5;
+
+}
+
+h1 {
+  font-family: "Bevan", cursive;
+}
+
+nav li {
+  font-family: helvetica;
+  display: inline-block;
+  padding: .6em .5em .75em;
+  background-color: #713837;
+  color: #fff;
+  border-radius: 10px;
+}
+
+nav li:hover {
+  background-color: #f33;
+}
