@@ -21,7 +21,7 @@ header {
 }
 
 h1 {
-  font-family: Bevan;
+  font-family: "Bevan", cursive;
   color: #fff;
   margin-bottom: 0;
 }
@@ -36,13 +36,13 @@ nav li {
   margin-bottom: .3em;
 }
 
-nav a{
+nav a {
   display: inline-block;
   font-family: sans-serif;
   padding: .6em .5em .75em;
   background-color: #713837;
   color: #fff;
-  border-radius: 10px;
+  border-radius: 5px;
   list-style-type: none;
   text-decoration: none;
   text-align: center;
@@ -50,8 +50,4 @@ nav a{
 
 nav a:hover {
   background-color: #f33;
-}
-
-header nav:last-of-type a:not(.current) {
-
 }
