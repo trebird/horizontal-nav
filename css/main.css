@@ -26,11 +26,15 @@ h1 {
   color: #fff;
   margin-bottom: 0;
   margin-top: .3em;
+  text-align: center;
 }
 
 nav ul {
   margin-top: 0;
   margin-bottom: .3em;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
 }
 
 nav li {
@@ -48,10 +52,7 @@ nav a {
   text-decoration: none;
   text-align: center;
   margin-bottom: .3em;
-}
-
-nav a:not(.venus) {
-  max-width: 400px;
+  padding-left: 0;
 }
 
 nav a:hover {
